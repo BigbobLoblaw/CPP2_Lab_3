@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 5ed9affb0ec324d459cb42f097d8e7c8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Mario: {fileID: 6285037765878104730, guid: b4c50a51ccf3cf646a9a01033af53bba, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
